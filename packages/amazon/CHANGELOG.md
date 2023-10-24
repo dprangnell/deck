@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.14.3](https://github.com/spinnaker/deck/compare/@spinnaker/amazon@0.14.2...@spinnaker/amazon@0.14.3) (2023-10-24)
+
+
+### Bug Fixes
+
+* **lambda:** available Runtimes shared between Deploy stage and Functions tab ([#10050](https://github.com/spinnaker/deck/issues/10050)) ([889d769](https://github.com/spinnaker/deck/commit/889d769c600e298917ec2471cd88a4bdd808ed91))
+
+
+
+
+
 ## [0.14.2](https://github.com/spinnaker/deck/compare/@spinnaker/amazon@0.14.1...@spinnaker/amazon@0.14.2) (2023-10-16)
 
 
